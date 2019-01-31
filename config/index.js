@@ -49,7 +49,7 @@ module.exports = {
 
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
-    assetsSubDirectory: '/git-deploy-template/static',
+    assetsSubDirectory: 'static',
     assetsPublicPath: '/git-deploy-template',
 
     /**
